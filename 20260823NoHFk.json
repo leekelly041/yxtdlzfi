@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "修了 Bug、做了重构，为什么老板还是觉得你没产出？",
+    "author": "例邶炉",
+    "time": "2026年08月23日01时09分15秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "外交部：中国公民谨慎赴帕劳旅游",
+  "description": "看懂银河通用，就读懂了具身智能的未来",
+  "about": {
+    "@type": "Thing",
+    "name": "www.share.lpsek.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "足协评议费利佩进球被吹：裁判判罚没问题，与角球无关",
+    "description": "内容页的详细描述，可包含www.share.lpsek.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "犘恖嵺"
+    },
+    "datePublished": "2026年08月23日01时09分15秒",
+    "dateModified": "2026年08月23日01时09分15秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "第七届中非媒体合作论坛明日开幕",
+      "url": "http://www.share.lpsek.cn/Article/details/790288.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "高级前端如何优雅地拒绝不合理的产品需求？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/022120.sHtML"
+    },
+{
+      "platform": "日本人烈日下大排长龙买中国相机",
+      "share_url": "http://www.share.lpsek.cn/Article/details/207858.sHtML"
+    },
+{
+      "platform": "【全栈实践】第一个 AI Agent 项目：从零搭建 AI 音频创作助手（高级篇）",
+      "share_url": "http://www.share.lpsek.cn/Article/details/005680.sHtML"
+    },
+{
+      "platform": "联想携手TCL华星亮相，牵头共建电竞显示体验生态计划",
+      "share_url": "http://www.share.lpsek.cn/Article/details/916270.sHtML"
+    },
+{
+      "platform": "Anthropic求锤得锤！Mythos 2被曝雪藏，Mythos 3正秘密研发",
+      "share_url": "http://www.share.lpsek.cn/Article/details/092233.sHtML"
+    },
+{
+      "platform": "1935年、美国宇航员斯托里·马斯格雷夫出生",
+      "share_url": "http://www.share.lpsek.cn/Article/details/283253.sHtML"
+    },
+{
+      "platform": "朱雀三号回收成功，如何看待蓝箭和 SpaceX 陆基回收路线的竞争？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/839764.sHtML"
+    },
+{
+      "platform": "为何一封信硬控了所有00后",
+      "share_url": "http://www.share.lpsek.cn/Article/details/256703.sHtML"
+    },
+{
+      "platform": "GitHub Actions 玩法大赏：一台远程主机的七种活法",
+      "share_url": "http://www.share.lpsek.cn/Article/details/937618.sHtML"
+    },
+    {
+      "platform": "转会专家：利物浦中场琼斯即将加盟国际米兰",
+      "share_url": "http://www.share.lpsek.cn/Article/details/183056.sHtML"
+    },
+{
+      "platform": "8K实拍朱雀三号可回收火箭",
+      "share_url": "http://www.share.lpsek.cn/Article/details/874810.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness确实炸了，但我已经不care了——说说为什么",
+      "share_url": "http://www.share.lpsek.cn/Article/details/987923.sHtML"
+    },
+{
+      "platform": "搭载行业首个七年长寿万级大电池，OPPO发布新一代耐用传奇A7 Pro Max",
+      "share_url": "http://www.share.lpsek.cn/Article/details/669850.sHtML"
+    },
+{
+      "platform": "老婆让我给她找健身搭子，手把手教学",
+      "share_url": "http://www.share.lpsek.cn/Article/details/468954.sHtML"
+    },
+{
+      "platform": "舞蹈区集体cos洛天依跳舞",
+      "share_url": "http://www.share.lpsek.cn/Article/details/888918.sHtML"
+    },
+{
+      "platform": "一年半以前救助的小可爱",
+      "share_url": "http://www.share.lpsek.cn/Article/details/768601.sHtML"
+    },
+{
+      "platform": "尘封25年枪击案被重启调查",
+      "share_url": "http://www.share.lpsek.cn/Article/details/159546.sHtML"
+    },
+{
+      "platform": "全球市场大跳水 原因找到了",
+      "share_url": "http://www.share.lpsek.cn/Article/details/261589.sHtML"
+    },
+{
+      "platform": "弟弟称哥哥刚确诊癌症嫂子就提离婚",
+      "share_url": "http://www.share.lpsek.cn/Article/details/269777.sHtML"
+    },
+    {
+      "platform": "12306回应买票占座放零食这座位能让吗",
+      "share_url": "http://www.share.lpsek.cn/Article/details/831438.sHtML"
+    },
+{
+      "platform": "女子隆胸术后一周查出怀孕五周，认为医院术前检查不到位要求退款，院方予以拒绝，如何从法律角度解读？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/111814.sHtML"
+    },
+{
+      "platform": "刘亦菲携爱犬登上时尚芭莎九月刊",
+      "share_url": "http://www.share.lpsek.cn/Article/details/501139.sHtML"
+    },
+{
+      "platform": "性和裸露本应发生在私密空间，影视剧里的床戏恰恰相反",
+      "share_url": "http://www.share.lpsek.cn/Article/details/984960.sHtML"
+    },
+{
+      "platform": "关于鸿蒙手机的日常体验，网上那些“劝退帖”到底还站不站得住脚？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/494217.sHtML"
+    },
+{
+      "platform": "肖战感觉把这片天空都已经染红了",
+      "share_url": "http://www.share.lpsek.cn/Article/details/364254.sHtML"
+    },
+{
+      "platform": "葛卫东朋友圈“喊话”坚定看多AI：我是相信没结束的",
+      "share_url": "http://www.share.lpsek.cn/Article/details/072544.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 实测：一夜 5 万星，Agent 界的 Android 来了",
+      "share_url": "http://www.share.lpsek.cn/Article/details/603624.sHtML"
+    },
+{
+      "platform": "交通运输部规划约6万公里“三环四横五纵”精品自驾旅游公路；商务部等推动新能源汽车、绿色智能家电下乡",
+      "share_url": "http://www.share.lpsek.cn/Article/details/058434.sHtML"
+    },
+{
+      "platform": "天山打洞只因那头有人民",
+      "share_url": "http://www.share.lpsek.cn/Article/details/920504.sHtML"
+    },
+    {
+      "platform": "微软产品改名有多频繁？2023 年改了 18 款，有粉丝专门为此建站追踪",
+      "share_url": "http://www.share.lpsek.cn/Article/details/188267.sHtML"
+    },
+{
+      "platform": "阿哲综艺收官5100运气封神",
+      "share_url": "http://www.share.lpsek.cn/Article/details/168675.sHtML"
+    },
+{
+      "platform": "买票占座放零食 这座位该让吗",
+      "share_url": "http://www.share.lpsek.cn/Article/details/553131.sHtML"
+    },
+{
+      "platform": "我奔跑的时候拿着手电筒向前射出一束光，那这束光的速度是不是相对地面超过了光速？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/852629.sHtML"
+    },
+{
+      "platform": "汽车被树根包裹多年漆面完整",
+      "share_url": "http://www.share.lpsek.cn/Article/details/777090.sHtML"
+    },
+{
+      "platform": "【直播切片】小鸽子和小小白机器人一起打麻将",
+      "share_url": "http://www.share.lpsek.cn/Article/details/976004.sHtML"
+    },
+{
+      "platform": "马斯克遭遇“黑色七月”，个人财富缩水约合人民币2.45万亿元，相当于亏掉2个“黄仁勋”",
+      "share_url": "http://www.share.lpsek.cn/Article/details/371346.sHtML"
+    },
+{
+      "platform": "女子坐高铁遇咸猪手果断报警",
+      "share_url": "http://www.share.lpsek.cn/Article/details/111968.sHtML"
+    },
+{
+      "platform": "仅有百股跌停，多达300多只上涨",
+      "share_url": "http://www.share.lpsek.cn/Article/details/024907.sHtML"
+    },
+{
+      "platform": "官方通报笔试前13名淘汰倒数5名逆袭",
+      "share_url": "http://www.share.lpsek.cn/Article/details/373380.sHtML"
+    },
+    {
+      "platform": "中联部邀日本议员访华？外交部回应",
+      "share_url": "http://www.share.lpsek.cn/Article/details/342278.sHtML"
+    },
+{
+      "platform": "OpenAI要输？Anthropic按下万亿IPO快进键，达里奥2%持股夺权",
+      "share_url": "http://www.share.lpsek.cn/Article/details/794221.sHtML"
+    },
+{
+      "platform": "难怪瘦的时候容易觉得疼",
+      "share_url": "http://www.share.lpsek.cn/Article/details/445131.sHtML"
+    },
+{
+      "platform": "我出轨了今天老婆正式通知了她家人",
+      "share_url": "http://www.share.lpsek.cn/Article/details/977109.sHtML"
+    },
+{
+      "platform": "中国建筑(601668.SH)近期合计获133.9亿元重大项目",
+      "share_url": "http://www.share.lpsek.cn/Article/details/480675.sHtML"
+    },
+{
+      "platform": "为什么有钱人都喜欢往漂亮国跑？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/482037.sHtML"
+    },
+{
+      "platform": "267 英寸巨幕打游戏、第一视角拍 Coser，雷鸟创新CJ26亮相",
+      "share_url": "http://www.share.lpsek.cn/Article/details/070952.sHtML"
+    },
+{
+      "platform": "隔热层“飞”了 责任谁担",
+      "share_url": "http://www.share.lpsek.cn/Article/details/308310.sHtML"
+    },
+{
+      "platform": "Claude Code 权限弹窗太烦？官方终于动手了。。。",
+      "share_url": "http://www.share.lpsek.cn/Article/details/276210.sHtML"
+    },
+{
+      "platform": "一网店在蛋糕上印“拉布布Labubu”形象 被泡泡玛特公司起诉",
+      "share_url": "http://www.share.lpsek.cn/Article/details/844052.sHtML"
+    },
+    {
+      "platform": "DeepSeek Harness 出来了，干硬件的我琢磨了一下它到底能干啥",
+      "share_url": "http://www.share.lpsek.cn/Article/details/092010.sHtML"
+    },
+{
+      "platform": "玉雕江湖里的“大师生意”",
+      "share_url": "http://www.share.lpsek.cn/Article/details/454672.sHtML"
+    },
+{
+      "platform": "尾盘才把宇树科技清仓，操作太菜了",
+      "share_url": "http://www.share.lpsek.cn/Article/details/297493.sHtML"
+    },
+{
+      "platform": "云网智算篇-第七篇：智算服务器架构——Atlas 900T A3 整机剖析",
+      "share_url": "http://www.share.lpsek.cn/Article/details/502172.sHtML"
+    },
+{
+      "platform": "为什么呀？老登股都跌那么惨？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/672831.sHtML"
+    },
+{
+      "platform": "张恒远因黑色素瘤病逝",
+      "share_url": "http://www.share.lpsek.cn/Article/details/350273.sHtML"
+    },
+{
+      "platform": "这款厨房纸立即停用",
+      "share_url": "http://www.share.lpsek.cn/Article/details/535888.sHtML"
+    },
+{
+      "platform": "我的前半生9年后为何又爆火",
+      "share_url": "http://www.share.lpsek.cn/Article/details/218148.sHtML"
+    },
+{
+      "platform": "美国居民携燃烧弹闯国会",
+      "share_url": "http://www.share.lpsek.cn/Article/details/219076.sHtML"
+    },
+{
+      "platform": "家长被索要清洁费未果遭尾随",
+      "share_url": "http://www.share.lpsek.cn/Article/details/013325.sHtML"
+    },
+    {
+      "platform": "这个七夕我先吃为敬",
+      "share_url": "http://www.share.lpsek.cn/Article/details/675088.sHtML"
+    },
+{
+      "platform": "去年还在打麻将的机器人，今年想上班了？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/325367.sHtML"
+    },
+{
+      "platform": "唐山多家企业被卡用地审批？记者调查",
+      "share_url": "http://www.share.lpsek.cn/Article/details/275283.sHtML"
+    },
+{
+      "platform": "东北第一城等到重开一局",
+      "share_url": "http://www.share.lpsek.cn/Article/details/374857.sHtML"
+    },
+{
+      "platform": "95后新郎把婚前房子财产全给了新娘",
+      "share_url": "http://www.share.lpsek.cn/Article/details/633778.sHtML"
+    },
+{
+      "platform": "来葛仙村过几天神仙日子！！！【江西旅游新地标】葛仙村度假区三天两晚全功攻略",
+      "share_url": "http://www.share.lpsek.cn/Article/details/229481.sHtML"
+    },
+{
+      "platform": "为悦己生活而来！搭载十大全球第一顶尖科技，腾势Z9S正式开启预售",
+      "share_url": "http://www.share.lpsek.cn/Article/details/599989.sHtML"
+    },
+{
+      "platform": "从流量风口到价值高地，AI爆发下的微短剧发展六大趋势",
+      "share_url": "http://www.share.lpsek.cn/Article/details/543549.sHtML"
+    },
+{
+      "platform": "3 个月烧掉 105 亿，腾讯急了",
+      "share_url": "http://www.share.lpsek.cn/Article/details/933824.sHtML"
+    },
+{
+      "platform": "迷你世界致00后的一封信",
+      "share_url": "http://www.share.lpsek.cn/Article/details/225263.sHtML"
+    },
+    {
+      "platform": "未来10天将生成两个台风",
+      "share_url": "http://www.share.lpsek.cn/Article/details/226438.sHtML"
+    },
+{
+      "platform": "石家庄一小区发生疑似燃爆致3死",
+      "share_url": "http://www.share.lpsek.cn/Article/details/943574.sHtML"
+    },
+{
+      "platform": "日本民众排队5小时买中国相机",
+      "share_url": "http://www.share.lpsek.cn/Article/details/389498.sHtML"
+    },
+{
+      "platform": "王力宏王兴兴坐一桌",
+      "share_url": "http://www.share.lpsek.cn/Article/details/372978.sHtML"
+    },
+{
+      "platform": "中学教师招聘笔试前13名被淘汰后5名进体检 官方通报",
+      "share_url": "http://www.share.lpsek.cn/Article/details/281257.sHtML"
+    },
+{
+      "platform": "瑞幸七夕联名引争议",
+      "share_url": "http://www.share.lpsek.cn/Article/details/840132.sHtML"
+    },
+{
+      "platform": "42岁男子玩漂流致四肢瘫痪",
+      "share_url": "http://www.share.lpsek.cn/Article/details/639770.sHtML"
+    },
+{
+      "platform": "升学宴墙体倒塌事故亲历者：左边右边都遇难 来不及喊",
+      "share_url": "http://www.share.lpsek.cn/Article/details/186514.sHtML"
+    },
+{
+      "platform": "爆火 Vue3 手势库：轻松实现手势功能，兼容PC端、移动端",
+      "share_url": "http://www.share.lpsek.cn/Article/details/258167.sHtML"
+    },
+{
+      "platform": "苹果向欧盟监管让步",
+      "share_url": "http://www.share.lpsek.cn/Article/details/466361.sHtML"
+    },
+    {
+      "platform": "是时候跟上蔡徐坤的old school了",
+      "share_url": "http://www.share.lpsek.cn/Article/details/251102.sHtML"
+    },
+{
+      "platform": "在自己买的小房子里，生活徐徐展开！",
+      "share_url": "http://www.share.lpsek.cn/Article/details/035253.sHtML"
+    },
+{
+      "platform": "河南烩面走到纽约了",
+      "share_url": "http://www.share.lpsek.cn/Article/details/929782.sHtML"
+    },
+{
+      "platform": "国家统计局：7月全国城镇不包含在校生16-24岁劳动力失业率为17.9%",
+      "share_url": "http://www.share.lpsek.cn/Article/details/044173.sHtML"
+    },
+{
+      "platform": "辣椒炒肉名场面来了",
+      "share_url": "http://www.share.lpsek.cn/Article/details/219002.sHtML"
+    },
+{
+      "platform": "阔腿裤+平底鞋：今年秋天最火搭配，松弛又好看！",
+      "share_url": "http://www.share.lpsek.cn/Article/details/125278.sHtML"
+    },
+{
+      "platform": "为什么多数猫都不怕蛇，毒蛇也不怕么?",
+      "share_url": "http://www.share.lpsek.cn/Article/details/596579.sHtML"
+    },
+{
+      "platform": "多地宣布：调整最低工资标准",
+      "share_url": "http://www.share.lpsek.cn/Article/details/906866.sHtML"
+    },
+{
+      "platform": "央行新增平安、恒丰、渤海等8家数字人民币业务运营机构，总数扩至30家",
+      "share_url": "http://www.share.lpsek.cn/Article/details/094912.sHtML"
+    },
+{
+      "platform": "北大数院发布菲尔兹奖得主王虹万字专访，有哪些内容值得关注？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/164875.sHtML"
+    },
+    {
+      "platform": "存储“三国杀”变局：三星扩大领先 美光追近海力士",
+      "share_url": "http://www.share.lpsek.cn/Article/details/479644.sHtML"
+    },
+{
+      "platform": "女孩买空座放零食大姐想坐遭拒",
+      "share_url": "http://www.share.lpsek.cn/Article/details/645590.sHtML"
+    },
+{
+      "platform": "阿里二面：RAG的内容超出知识库范围，应该如何检测和拒绝回答，以避免幻觉产生？我说三点，面试官频频点头…",
+      "share_url": "http://www.share.lpsek.cn/Article/details/808744.sHtML"
+    },
+{
+      "platform": "如果网络不分层，互联网会崩溃成什么样？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/970520.sHtML"
+    },
+{
+      "platform": "我真不是为了那饭菜，才替他们倒酒满上",
+      "share_url": "http://www.share.lpsek.cn/Article/details/349406.sHtML"
+    },
+{
+      "platform": "女孩顺风车内暴晒2小时求救",
+      "share_url": "http://www.share.lpsek.cn/Article/details/878376.sHtML"
+    },
+{
+      "platform": "乘风 Zhang Concepts“超级三合一”战术包",
+      "share_url": "http://www.share.lpsek.cn/Article/details/786455.sHtML"
+    },
+{
+      "platform": "美国制裁赤根智子 日本网民炸锅",
+      "share_url": "http://www.share.lpsek.cn/Article/details/546089.sHtML"
+    },
+{
+      "platform": "日本外务省回应美国制裁赤根智子：深表遗憾",
+      "share_url": "http://www.share.lpsek.cn/Article/details/802656.sHtML"
+    },
+{
+      "platform": "这女孩可怜啊，一辈子毁了……",
+      "share_url": "http://www.share.lpsek.cn/Article/details/039299.sHtML"
+    },
+    {
+      "platform": "女子车内出现死蛇臭了三天才发现",
+      "share_url": "http://www.share.lpsek.cn/Article/details/229071.sHtML"
+    },
+{
+      "platform": "正当防卫！昆山龙哥后又一正道的光",
+      "share_url": "http://www.share.lpsek.cn/Article/details/842896.sHtML"
+    },
+{
+      "platform": "卡位BBA、突围新势力，魏牌V8X以“极致”定义大五座旗舰SUV价值标杆",
+      "share_url": "http://www.share.lpsek.cn/Article/details/743502.sHtML"
+    },
+{
+      "platform": "这是青岛哪位大佬？这么嚣张",
+      "share_url": "http://www.share.lpsek.cn/Article/details/720118.sHtML"
+    },
+{
+      "platform": "小螺号｜当二手车迎来补贴扶持，真正的考验才刚开始",
+      "share_url": "http://www.share.lpsek.cn/Article/details/830595.sHtML"
+    },
+{
+      "platform": "俄乌互换103名被俘人员",
+      "share_url": "http://www.share.lpsek.cn/Article/details/220506.sHtML"
+    },
+{
+      "platform": "网络上常见的热门短视频集锦 第三千三百七十五期",
+      "share_url": "http://www.share.lpsek.cn/Article/details/916709.sHtML"
+    },
+{
+      "platform": "个人/公司远程设备难区分？ ToDesk团队版：场景自由切换，隐私安全有保障",
+      "share_url": "http://www.share.lpsek.cn/Article/details/807072.sHtML"
+    },
+{
+      "platform": "就游了5分钟野泳，怎么就高烧、头疼、呕吐了？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/837864.sHtML"
+    },
+{
+      "platform": "华系适合年轻人的车来了",
+      "share_url": "http://www.share.lpsek.cn/Article/details/197691.sHtML"
+    },
+    {
+      "platform": "暴雨后大爷拿鱼叉抓鱼叉中十斤大鱼",
+      "share_url": "http://www.share.lpsek.cn/Article/details/977045.sHtML"
+    },
+{
+      "platform": "四月时，说预计下半年昇腾950超节点批量上市后，deepseek的价格会大幅下调，这个预计还算数吗？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/847313.sHtML"
+    },
+{
+      "platform": "RAG检索优化实战：从67%到92%，我做了这4步",
+      "share_url": "http://www.share.lpsek.cn/Article/details/831901.sHtML"
+    },
+{
+      "platform": "惠英红为拍戏拼到买不了保险",
+      "share_url": "http://www.share.lpsek.cn/Article/details/924251.sHtML"
+    },
+{
+      "platform": "和你「私奔」的话，我只带一支海棠。【原创曲】",
+      "share_url": "http://www.share.lpsek.cn/Article/details/633638.sHtML"
+    },
+{
+      "platform": "飞牛NAS部署Hermes Agent：RK3566接入DeepSeek、微信与远程控制台",
+      "share_url": "http://www.share.lpsek.cn/Article/details/380675.sHtML"
+    },
+{
+      "platform": "宇树上市首日 青岛巨头赚了40亿",
+      "share_url": "http://www.share.lpsek.cn/Article/details/894866.sHtML"
+    },
+{
+      "platform": "离开东方甄选269天后，孙东旭杀回来了",
+      "share_url": "http://www.share.lpsek.cn/Article/details/883659.sHtML"
+    },
+{
+      "platform": "虹猫蓝兔写给90后00后的一封信",
+      "share_url": "http://www.share.lpsek.cn/Article/details/577193.sHtML"
+    },
+{
+      "platform": "衣服破了你还缝？滴点小药水，它自己能长回来",
+      "share_url": "http://www.share.lpsek.cn/Article/details/248300.sHtML"
+    },
+    {
+      "platform": "Project Trust 不是 Sandbox：Pi Agent 的安全边界怎样补齐",
+      "share_url": "http://www.share.lpsek.cn/Article/details/819369.sHtML"
+    },
+{
+      "platform": "跨平台开发地图 | 2026年8月",
+      "share_url": "http://www.share.lpsek.cn/Article/details/750381.sHtML"
+    },
+{
+      "platform": "加总理卡尼再通话特朗普",
+      "share_url": "http://www.share.lpsek.cn/Article/details/759357.sHtML"
+    },
+{
+      "platform": "明星七夕节集体秀恩爱",
+      "share_url": "http://www.share.lpsek.cn/Article/details/819487.sHtML"
+    },
+{
+      "platform": "宇宙中的“超级大水库”，地球的蓄水量，只有它的140万亿分之1",
+      "share_url": "http://www.share.lpsek.cn/Article/details/996088.sHtML"
+    },
+{
+      "platform": "我有我的七夕仪式感",
+      "share_url": "http://www.share.lpsek.cn/Article/details/349237.sHtML"
+    },
+{
+      "platform": "公安悬赏100万寻被盗石狮",
+      "share_url": "http://www.share.lpsek.cn/Article/details/666588.sHtML"
+    },
+{
+      "platform": "王力宏现身宇树答谢宴，坐1号桌",
+      "share_url": "http://www.share.lpsek.cn/Article/details/070659.sHtML"
+    },
+{
+      "platform": "性侵幼女、枪杀妻子，美国一曾任职警局红通逃犯潜逃来华，化身高校外教颇受欢迎，被学生在通缉令上认出，已被中国警方遣返回美",
+      "share_url": "http://www.share.lpsek.cn/Article/details/516665.sHtML"
+    },
+{
+      "platform": "产出多部爆款电视剧的张若昀，为什么到了电影圈就不灵了？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/443837.sHtML"
+    },
+    {
+      "platform": "王者里可以打斗地主了",
+      "share_url": "http://www.share.lpsek.cn/Article/details/296784.sHtML"
+    },
+{
+      "platform": "1942年、斯大林格勒大会战在纳粹德国和苏联之间展开",
+      "share_url": "http://www.share.lpsek.cn/Article/details/370585.sHtML"
+    },
+{
+      "platform": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/187810.sHtML"
+    },
+{
+      "platform": "Seedance 2.5来了，但行业真的准备好了吗？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/651754.sHtML"
+    },
+{
+      "platform": "美国科研制度革命：创世纪计划与《科学：新黄金时代》解读",
+      "share_url": "http://www.share.lpsek.cn/Article/details/534867.sHtML"
+    },
+{
+      "platform": "冰箱里囤的雪糕长满了大冰碴子，还能吃吗？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/230434.sHtML"
+    },
+{
+      "platform": "开个新坑，从头开始完整拆解 Spring AI 2.0 的源码",
+      "share_url": "http://www.share.lpsek.cn/Article/details/720347.sHtML"
+    },
+{
+      "platform": "官方通报佛山一中学教师招聘违规事件",
+      "share_url": "http://www.share.lpsek.cn/Article/details/436725.sHtML"
+    },
+{
+      "platform": "金莎再唱《星月神话》",
+      "share_url": "http://www.share.lpsek.cn/Article/details/601975.sHtML"
+    },
+{
+      "platform": "定性了！中国打破几十年惯例，正式对靖国神社改了称呼，还原真相",
+      "share_url": "http://www.share.lpsek.cn/Article/details/224654.sHtML"
+    },
+    {
+      "platform": "180多头白唇鹿横渡雅砻江",
+      "share_url": "http://www.share.lpsek.cn/Article/details/545898.sHtML"
+    },
+{
+      "platform": "年轻人必备的家务忠仆",
+      "share_url": "http://www.share.lpsek.cn/Article/details/857971.sHtML"
+    },
+{
+      "platform": "涉嫌违法违规生产经营！国家烟草专卖局约谈电子烟龙头爱奇迹",
+      "share_url": "http://www.share.lpsek.cn/Article/details/082136.sHtML"
+    },
+{
+      "platform": "企业微信AI大跃进：机器人权限不管公司多大，这次彻底放开了",
+      "share_url": "http://www.share.lpsek.cn/Article/details/802025.sHtML"
+    },
+{
+      "platform": "日拟研发潜射高超音速导弹",
+      "share_url": "http://www.share.lpsek.cn/Article/details/070456.sHtML"
+    },
+{
+      "platform": "中国小伙越南见女友家长被海浪卷走失联 搜救多日无果",
+      "share_url": "http://www.share.lpsek.cn/Article/details/999951.sHtML"
+    },
+{
+      "platform": "AI 芯片需求激增，消息称三星部分先进制程代工最高涨价 15%",
+      "share_url": "http://www.share.lpsek.cn/Article/details/627955.sHtML"
+    },
+{
+      "platform": "这个39岁的日本阿姨，说话一套一套的！",
+      "share_url": "http://www.share.lpsek.cn/Article/details/261635.sHtML"
+    },
+{
+      "platform": "南斯拉夫被肢解的太惨了吧？这是切块再剁碎啊",
+      "share_url": "http://www.share.lpsek.cn/Article/details/311692.sHtML"
+    },
+{
+      "platform": "美军紧急“救援”林肯号",
+      "share_url": "http://www.share.lpsek.cn/Article/details/693648.sHtML"
+    },
+    {
+      "platform": "鸿蒙组件化设计横空出世",
+      "share_url": "http://www.share.lpsek.cn/Article/details/039912.sHtML"
+    },
+{
+      "platform": "龚俊在巴黎感受环法",
+      "share_url": "http://www.share.lpsek.cn/Article/details/802990.sHtML"
+    },
+{
+      "platform": "台媒：台湾一富商被杀害，34岁前员工落网，作案动机曝光",
+      "share_url": "http://www.share.lpsek.cn/Article/details/216840.sHtML"
+    },
+{
+      "platform": "火影晓三飞段全技能爆料",
+      "share_url": "http://www.share.lpsek.cn/Article/details/458093.sHtML"
+    },
+{
+      "platform": "美军舰南海断电4天：厕所不能用，空调不能用，美元也开始发臭了",
+      "share_url": "http://www.share.lpsek.cn/Article/details/927363.sHtML"
+    },
+{
+      "platform": "Magic Resume 实战：开源 AI 简历编辑器（多模型 + 本地存储）",
+      "share_url": "http://www.share.lpsek.cn/Article/details/148198.sHtML"
+    },
+{
+      "platform": "追求源于热爱创业首秀：万志强发布PANDAER新品及DreamGoGo众筹平台",
+      "share_url": "http://www.share.lpsek.cn/Article/details/577787.sHtML"
+    },
+{
+      "platform": "宋清辉被判赔偿胖东来30万元",
+      "share_url": "http://www.share.lpsek.cn/Article/details/403689.sHtML"
+    },
+{
+      "platform": "黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store",
+      "share_url": "http://www.share.lpsek.cn/Article/details/154084.sHtML"
+    },
+{
+      "platform": "字节面试官皱眉了："你的 Agent 为啥用 Code RAG 而不用 grep？Claude Code 都实践出来 grep 效果好，难道你们另有其他考虑？"",
+      "share_url": "http://www.share.lpsek.cn/Article/details/853580.sHtML"
+    },
+    {
+      "platform": "杭州男子下班路上“多看一眼”，感觉事情必有蹊跷……3人落网",
+      "share_url": "http://www.share.lpsek.cn/Article/details/064777.sHtML"
+    },
+{
+      "platform": "1985年、北回归线标志塔在广州落成",
+      "share_url": "http://www.share.lpsek.cn/Article/details/265691.sHtML"
+    },
+{
+      "platform": "社区版 Dart macros？一个可以解决 JSON 序列化的Fluter “宏编程”第三方包",
+      "share_url": "http://www.share.lpsek.cn/Article/details/559940.sHtML"
+    },
+{
+      "platform": "于东来称未来三年不参与帮扶企业，2030年后停止所有经营项目发展",
+      "share_url": "http://www.share.lpsek.cn/Article/details/160989.sHtML"
+    },
+{
+      "platform": "广汽埃安焕新LOGO首车Ray7亮相，搭载华为DriveONE电机",
+      "share_url": "http://www.share.lpsek.cn/Article/details/152594.sHtML"
+    },
+{
+      "platform": "岚图发布“虎踞”智能底盘，城市SUV能否讲好全地形故事",
+      "share_url": "http://www.share.lpsek.cn/Article/details/223573.sHtML"
+    },
+{
+      "platform": "“七年之痒”夫妻七夕复婚“打嘴仗”",
+      "share_url": "http://www.share.lpsek.cn/Article/details/310960.sHtML"
+    },
+{
+      "platform": "国家统计局公布最新数据",
+      "share_url": "http://www.share.lpsek.cn/Article/details/813333.sHtML"
+    },
+{
+      "platform": "亿纬锂能 2026 年半年度归母净利润 33.01 亿元，同比增长 105.66%",
+      "share_url": "http://www.share.lpsek.cn/Article/details/963790.sHtML"
+    },
+{
+      "platform": "AI 芯片初创企业 Etched 估值飙升至 210 亿美元，首批机架出货",
+      "share_url": "http://www.share.lpsek.cn/Article/details/871341.sHtML"
+    },
+    {
+      "platform": "时间戳随机修改工具",
+      "share_url": "http://www.share.lpsek.cn/Article/details/474244.sHtML"
+    },
+{
+      "platform": "多国减持 美债抛售潮加剧",
+      "share_url": "http://www.share.lpsek.cn/Article/details/719451.sHtML"
+    },
+{
+      "platform": "伊朗称未与美国进行直接对话",
+      "share_url": "http://www.share.lpsek.cn/Article/details/593477.sHtML"
+    },
+{
+      "platform": "1944年、纳粹德国陆军元帅京特·冯·克鲁格畏罪自杀",
+      "share_url": "http://www.share.lpsek.cn/Article/details/318459.sHtML"
+    },
+{
+      "platform": "七夕怪谈：对象不够，AI来凑",
+      "share_url": "http://www.share.lpsek.cn/Article/details/738654.sHtML"
+    },
+{
+      "platform": "巴厘岛 | 总有一个假日，要属于bali",
+      "share_url": "http://www.share.lpsek.cn/Article/details/036056.sHtML"
+    },
+{
+      "platform": "女子乘飞机后眼前现黑影",
+      "share_url": "http://www.share.lpsek.cn/Article/details/342633.sHtML"
+    },
+{
+      "platform": "男子直肠癌手术三年后喝酒 医生提醒",
+      "share_url": "http://www.share.lpsek.cn/Article/details/582604.sHtML"
+    },
+{
+      "platform": "患者就诊中昏迷医生被索赔",
+      "share_url": "http://www.share.lpsek.cn/Article/details/244410.sHtML"
+    },
+{
+      "platform": "【七夕快乐】「跟你住」，“想搬进你心里，其它烦心的都不考虑”（cover：孙盛希）",
+      "share_url": "http://www.share.lpsek.cn/Article/details/770087.sHtML"
+    },
+    {
+      "platform": "公积金新政来了，有哪些利好？",
+      "share_url": "http://www.share.lpsek.cn/Article/details/439743.sHtML"
+    },
+{
+      "platform": "贵金属市场杀出一匹黑马，铱价暴涨远超黄金",
+      "share_url": "http://www.share.lpsek.cn/Article/details/397430.sHtML"
+    },
+{
+      "platform": "我们的少年时代2探病花絮",
+      "share_url": "http://www.share.lpsek.cn/Article/details/828196.sHtML"
+    },
+{
+      "platform": "滴滴 AI 研发岗一面：Agent 有几种设计模式？不能只背五个名字",
+      "share_url": "http://www.share.lpsek.cn/Article/details/066164.sHtML"
+    },
+{
+      "platform": "印尼强震靠手电接生",
+      "share_url": "http://www.share.lpsek.cn/Article/details/953714.sHtML"
+    },
+{
+      "platform": "拿下顶级大厂社招offer的经验分享（外企非码农版）",
+      "share_url": "http://www.share.lpsek.cn/Article/details/579128.sHtML"
+    },
+{
+      "platform": "正泰电器 2026 年半年度归母净利润 31.30 亿元，同比增长 22.23%",
+      "share_url": "http://www.share.lpsek.cn/Article/details/725730.sHtML"
+    },
+{
+      "platform": "把发布会搬进年轻人的生活里！全球精品轿车零跑A05正式上市！",
+      "share_url": "http://www.share.lpsek.cn/Article/details/131204.sHtML"
+    },
+{
+      "platform": "我发现一个 Rust 写的多服务器管理工具，免费无节点限制",
+      "share_url": "http://www.share.lpsek.cn/Article/details/682649.sHtML"
+    },
+{
+      "platform": "bilibili视频下载器，可下4K、8K、HDR、杜比音频等内容（2026.08.14更新）",
+      "share_url": "http://www.share.lpsek.cn/Article/details/223461.sHtML"
+    },
+    {
+      "platform": "雷童的热烈换来春子我也是",
+      "share_url": "http://www.share.lpsek.cn/Article/details/860880.sHtML"
+    },
+{
+      "platform": "中方回应马来西亚总理涉台表态",
+      "share_url": "http://www.share.lpsek.cn/Article/details/415178.sHtML"
+    },
+{
+      "platform": "处长单位门口遭枪击高位截瘫7年后去世 案件25年未破",
+      "share_url": "http://www.share.lpsek.cn/Article/details/292212.sHtML"
+    },
+{
+      "platform": "赛力斯上半年营收574.93亿元",
+      "share_url": "http://www.share.lpsek.cn/Article/details/233049.sHtML"
+    },
+{
+      "platform": "三星Galaxy Z8系列深圳上手：AI功能如何改变折叠屏的使用方式",
+      "share_url": "http://www.share.lpsek.cn/Article/details/222168.sHtML"
+    },
+{
+      "platform": "Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭",
+      "share_url": "http://www.share.lpsek.cn/Article/details/344452.sHtML"
+    },
+{
+      "platform": "邀请网红参加奢华品牌活动，OpenAI营销引争议",
+      "share_url": "http://www.share.lpsek.cn/Article/details/856744.sHtML"
+    },
+{
+      "platform": "俄罗斯一老兵跳伞表演中降落伞未能打开，从600米空中坠亡，其曾试图打开备用降落伞，因距离地面太近失败",
+      "share_url": "http://www.share.lpsek.cn/Article/details/418374.sHtML"
+    },
+{
+      "platform": "出狱前8天被改判死缓，最高检指导案例公布案件细节",
+      "share_url": "http://www.share.lpsek.cn/Article/details/283123.sHtML"
+    },
+{
+      "platform": "这场文艺汇演如同百花齐放",
+      "share_url": "http://www.share.lpsek.cn/Article/details/143143.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+
+<hr></hr><br>
+<p>*报告生成时间：2026年08月23日01时09分15秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
